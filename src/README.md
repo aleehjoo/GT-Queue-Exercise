@@ -1,0 +1,1 @@
+![Screenshot of output](images\QueuePractice.png)
